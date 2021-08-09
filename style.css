@@ -1,0 +1,93 @@
+h1 {
+	
+	font-family: roboto;
+	text-align: center;
+}
+.box p {
+    color: red;
+}  
+h1 {
+    font-weight: bold;
+    background-color: rgb(99, 99, 243);
+    color: #fff;
+    padding: .9em;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -20px;
+}
+h2 {
+color: blue;
+}
+p {
+    font-weight: bold;
+    background-color: rgb(191, 192, 245);
+    color: #fff;
+    padding: .5em;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-right: 45px;
+} 
+    nav{
+
+    font-weight: bold;
+    background-color:  rgb(176, 177, 247);
+    color: #fff;
+    padding: .7em;
+    margin-top: -45px;
+    margin-left: -10px;
+    margin-right: -10px;
+  
+    }
+    a{
+        text-decoration: none;
+        margin-left: 15px;
+    }
+    ul{
+        margin-left: 300px;
+        list-style: none;
+    }
+    li{
+        display: inline;
+        color : black;
+    }
+
+
+    .titre{
+        color:blue;
+
+    }
+   .vid{
+    border: 5px double ;
+}
+    img{
+        width: 420px;
+        height: 315px;
+        margin-left: 200px  ;
+        border: 5px solid rgb(180, 148, 240);
+    }
+  
+  iframe{
+    border: 5px solid rgb(198, 190, 236);
+
+  }
+  table{
+      margin-left: 400px;
+    height: 300px;
+    width: 700px;
+    position: center;
+  }
+  table td {
+    text-align: center;  }
+    dl{
+        text-align: center;
+    }
+ form{
+    text-align: center;
+    background-color: rgb(191, 192, 245);
+   border : 5px solid black;
+ }
+
+
+ 
+    
